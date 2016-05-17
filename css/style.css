@@ -1,0 +1,153 @@
+html, body {
+	margin: 0;
+	padding: 0;
+	height: 100%;
+	font-family: arial, sans-serif;
+}
+
+.wrap {
+	min-height: 100%;
+    height: 100%;
+	margin-bottom: -50px;
+}
+
+.wrap:after {
+	content: "";
+	display: block;
+}
+
+#navbar {
+	float: right;
+	padding-right: 5%;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+#navbar ul {
+	list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+#navbar li {
+	float: left;
+}
+
+#navbar li a {
+	display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+.nav-div {
+	border-right: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#content {
+	height: 100%;
+}
+
+#header-push {
+	padding-bottom: 20px;
+}
+
+#content-header-container {
+	width: 100%;
+	float: right;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #f1f1f1;
+}
+
+#content-header {
+	font-size: 30px;
+	text-align: center;
+}
+
+#content-info1-container {
+	padding-bottom: 45px;
+	width: 100%;
+	float: right;
+	background-color: #f1f1f1;
+}
+
+#info1 {
+	padding-left: 30px;
+	padding-right: 30px;
+}
+
+#about-push {
+	padding-bottom: 20px;
+}
+
+#content-about-container {
+	width: 100%;
+	float: right;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #f1f1f1;
+}
+
+#about {
+	font-size: 30px;
+	text-align: center;
+}
+
+#content-info2-container {
+	padding-bottom: 45px;
+	width: 100%;
+	float: right;
+	background-color: #f1f1f1;
+}
+
+#info2 {
+	text-align: center;
+}
+
+#contact-push {
+	padding-bottom: 20px;
+}
+
+#content-contact-container {
+	width: 100%;
+	float: right;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	background-color: #f1f1f1;
+}
+
+#contact {
+	font-size: 30px;
+	text-align: center;
+}
+
+#content-info3-container {
+	padding-bottom: 45px;
+	width: 100%;
+	float: right;
+	background-color: #f1f1f1;
+	border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+#info3 {
+	text-align: center;
+}
+
+#bottom-push {
+	padding-top: 160px;
+}
+
+.footer, .wrap:after {
+	height: 50px;
+}
+
+.footer {
+	padding-top: 5px;
+	padding-left: 30px;
+	background-color: #e2e2e2;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.footer p {
+	font-size: 15px;
+}
