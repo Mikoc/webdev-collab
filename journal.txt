@@ -1,3 +1,16 @@
-Done the entire website and work in general - Ryan, 2k16
+Ryan's Journal for the collaboration task
 
-- Added information such as effects (20/5/2016)
+(17/5/2016)
+Done the entire website
+
+(20/5/2016)
++ Researched and added information on the effects of piracy
+
+(24/5/2016)
++ Added 'sumbodi.wav' and 'sumbodi.ogg'
++ Added 'audio' tag for 'sumbodi.wav' or 'sumbodi.ogg'
+
+(27/5/2016)
++ Researched Q2. c
++ Added information to the website, from Q2. b,c,d,e to Q7
++ Made the container id's etc for the body content into classes
